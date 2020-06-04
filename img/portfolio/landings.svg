@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4510px" height="3775px" viewBox="0 0 4510 3775" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 47 Copy 3</title>
+    <defs>
+        <radialGradient cx="50%" cy="47.8009516%" fx="50%" fy="47.8009516%" r="30.5469819%" gradientTransform="translate(0.500000,0.478010),scale(0.837029,1.000000),rotate(90.000000),translate(-0.500000,-0.478010)" id="radialGradient-1">
+            <stop stop-color="#F3F7FD" offset="0%"></stop>
+            <stop stop-color="#F3F7FD" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-68.1%" y="-62.6%" width="236.1%" height="225.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="50" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.47027972 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-47-Copy-3">
+            <g id="Group-47-Copy-2">
+                <g id="Group-45-Copy-2" fill="url(#radialGradient-1)">
+                    <rect id="Rectangle" x="0" y="0" width="4510" height="3775"></rect>
+                </g>
+                <g id="Group-50" transform="translate(2100.000000, 1645.000000)">
+                    <g id="Group-51" filter="url(#filter-2)" stroke="#263238" stroke-width="30">
+                        <rect id="Rectangle" x="0" y="0" width="310" height="337"></rect>
+                    </g>
+                    <rect id="Rectangle" fill="#263238" x="60" y="59" width="191" height="20"></rect>
+                    <rect id="Rectangle-Copy-55" fill="#263238" x="59" y="101" width="68" height="68"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

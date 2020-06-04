@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4510px" height="3775px" viewBox="0 0 4510 3775" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 47 Copy</title>
+    <defs>
+        <radialGradient cx="50%" cy="47.8009516%" fx="50%" fy="47.8009516%" r="30.5469819%" gradientTransform="translate(0.500000,0.478010),scale(0.837029,1.000000),rotate(90.000000),translate(-0.500000,-0.478010)" id="radialGradient-1">
+            <stop stop-color="#34A1AF" stop-opacity="0.887647509" offset="0%"></stop>
+            <stop stop-color="#34A1AF" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-46.6%" y="-87.2%" width="193.1%" height="274.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="50" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.47027972 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-47-Copy">
+            <g id="Group-45-Copy-2" fill="url(#radialGradient-1)">
+                <rect id="Rectangle" x="0" y="0" width="4510" height="3775"></rect>
+            </g>
+            <g id="Group-51" filter="url(#filter-2)" transform="translate(2033.000000, 1717.000000)">
+                <path d="M232,242 C317.420041,242 394.753375,207.299814 464,137.899441 C394.753375,45.9664804 317.420041,0 232,0 C146.579959,0 69.2466254,45.9664804 0,137.899441 C69.2466254,207.299814 146.579959,242 232,242 Z" id="Oval-3" stroke="#FFFFFF" stroke-width="30"></path>
+                <ellipse id="Oval" fill="#FFFFFF" cx="232" cy="121.5" rx="65" ry="65.5"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
